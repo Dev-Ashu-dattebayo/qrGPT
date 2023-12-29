@@ -1,4 +1,4 @@
-<a href="https://qrGPT.io">
+<a href="https://qr-gpt-sigma-five.vercel.app">
   <img alt="QrGPT – Generate beautiful AI QR Codes in seconds." src="/public/og-image.png">
   <h1 align="center">qrGPT</h1>
 </a>
@@ -29,12 +29,6 @@
 - [Vercel KV](https://vercel.com/storage/kv) for redis storage and rate limiting
 - [Shadcn UI](https://ui.shadcn.com/) for the component library
 
-## Deploy Your Own
-
-You can deploy this template to Vercel with the button below:
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.fyi/qrGPT)
-
 Note that you'll need to:
 
 - Set up [Replicate](https://replicate.com)
@@ -43,8 +37,7 @@ Note that you'll need to:
 
 ## Authors
 
-- Hassan El Mghari ([@nutlope](https://twitter.com/nutlope))
-- Kevin Hou ([@kevinhou22](https://twitter.com/kevinhou22))
+- DevAshu ([@DevAshu](https://github.com/Ashutosh102))
 
 ## Credits
 
