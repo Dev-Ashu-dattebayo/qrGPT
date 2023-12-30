@@ -26,9 +26,9 @@ export async function generateMetadata({
     return;
   }
 
-  const title = `QrGPT: ${data.prompt}`;
-  const description = `A QR code generated from qr-gpt-sigma-five.vercel.app linking to: ${data.website_url}`;
-  const image = data.image || 'https://qr-gpt-sigma-five.vercel.app/og-image.png';
+  const title = `SmartQR: ${data.prompt}`;
+  const description = `A QR code generated from smart-qr-ai.vercel.app linking to: ${data.website_url}`;
+  const image = data.image || 'https://smart-qr-ai.vercel.app/og-image.png';
 
   return {
     title,

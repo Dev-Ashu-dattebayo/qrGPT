@@ -1,6 +1,6 @@
-<a href="https://qr-gpt-sigma-five.vercel.app">
-  <img alt="QrGPT – Generate beautiful AI QR Codes in seconds." src="/public/og-image.png">
-  <h1 align="center">qrGPT</h1>
+<a href="https://smart-qr-ai.vercel.app">
+  <img alt="SmartQR – Generate beautiful AI QR Codes in seconds." src="/public/og-image.png">
+  <h1 align="center">SmartQR AI</h1>
 </a>
 
 <p align="center">

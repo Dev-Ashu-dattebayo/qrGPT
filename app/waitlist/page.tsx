@@ -5,7 +5,7 @@ export default function WaitlistPage() {
     <div className="mt-20 mx-auto text-center">
       <div className="flex items-center justify-center flex-col gap-5">
         <Image src="/box.svg" alt="logo" width={200} height={200} />
-        <div className="font-bold text-4xl">QrGPT</div>
+        <div className="font-bold text-4xl">SmartQR AI</div>
       </div>
 
       <div className="mt-36 text-center prose mx-auto">

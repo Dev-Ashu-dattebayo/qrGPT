@@ -8,11 +8,11 @@ import PlausibleProvider from 'next-plausible';
 
 const inter = Inter({ subsets: ['latin'] });
 
-let title = 'QrGPT - QR Code Generator';
+let title = 'SmartQR-AI - QR Code Generator';
 let description = 'Generate your AI QR Code in seconds';
-let url = 'https://www.qr-gpt-sigma-five.vercel.app';
-let ogimage = 'https://www.qr-gpt-sigma-five.vercel.app/og-image.png';
-let sitename = 'qr-gpt-sigma-five.vercel.app';
+let url = 'https://www.smart-qr-ai.vercel.app';
+let ogimage = 'https://www.smart-qr-ai.vercel.app/og-image.png';
+let sitename = 'smart-qr-ai.vercel.app';
 
 export const metadata: Metadata = {
   metadataBase: new URL(url),
@@ -46,7 +46,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
-        <PlausibleProvider domain="qr-gpt-sigma-five.vercel.app" />
+        <PlausibleProvider domain="smart-qr-ai.vercel.app" />
       </head>
       <body className={inter.className}>
         <Navbar />

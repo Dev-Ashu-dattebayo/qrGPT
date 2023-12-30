@@ -14,7 +14,7 @@ export default function Hero() {
             Generate your next AI QR Code in seconds
           </h1>
           <p className="max-w-xl mx-auto">
-            QRGPT makes it simple for you to generate cool looking AI QR codes
+            SmartQR AI makes it simple for you to generate cool looking AI QR codes
             in seconds, completely for free.
           </p>
           <div className="flex items-center justify-center gap-x-3 font-medium text-sm">
@@ -26,7 +26,7 @@ export default function Hero() {
             </NavLink>
             <NavLink
               target="_blank"
-              href="https://github.com/Nutlope/qrGPT"
+              href="https://github.com/Dev-Ashu-dattebayo/qrGPT"
               className="text-gray-700 border hover:bg-gray-50"
               scroll={false}
             >
